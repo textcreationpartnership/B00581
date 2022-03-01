@@ -1,0 +1,259 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A compleate gentle-vvoman described by her feature, her person slender, her beauty admirable, her wit excellent, her carriage modest, her behaviour chast, with her constancie in love. To the tune of Sabina.</title>
+            <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1633</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00581</idno>
+            <idno type="STC">STC 20313</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[62]</idno>
+            <idno type="EEBO-CITATION">99884198</idno>
+            <idno type="PROQUEST">ocm99884198</idno>
+            <idno type="VID">182955</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00581)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182955)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[36])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A compleate gentle-vvoman described by her feature, her person slender, her beauty admirable, her wit excellent, her carriage modest, her behaviour chast, with her constancie in love. To the tune of Sabina.</title>
+                  <author>L. P. (Laurence Price), fl. 1625-1680?</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>for J. Wright,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1633]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Signed: L.P. [i.e. Lawrence Price].</note>
+                  <note>Verse: "You muses all your aide to mee assigne ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Women --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="62" facs="tcp:182955:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>A Compleate Gentle-woman Deſcribed by her feature, Her perſon ſlender, her beauty admirable, her wit excellent, her carriage modeſt, her behaviour chaſt, with her conſtancie in love.</head>
+            <opener>To the tune of Sabina.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>YOu Muſes all your aide to mée aſſigne</l>
+                  <l>To ſpeake in praiſe of the true loue of mine.</l>
+                  <l>Strike up with ioy</l>
+                  <l>Strike up with ioy</l>
+                  <l>Strike up with ioy your inſtruments of mirth</l>
+                  <l>Till piercing Ecchoes ring 'twixt heaven and earth.</l>
+               </lg>
+               <lg>
+                  <l>Let Pan with ſpéed prepare himſelfe to play,</l>
+                  <l>And ſwéetly chaunt my loue a roundelay</l>
+                  <l>While Satyres péepe</l>
+                  <l>While Satyres peepe</l>
+                  <l>While Satyres péepe to ſée her louely face,</l>
+                  <l>Let Citterne, harpe, and lute her meeting grace.</l>
+               </lg>
+               <lg>
+                  <l>Let all the Poets company combine</l>
+                  <l>Their wits in one for my ſwéet Roſaline,</l>
+                  <l>And ſay that ſhée</l>
+                  <l>And ſay that ſhée</l>
+                  <l>And ſay that ſhée Quéene Venus doth excell,</l>
+                  <l>For beauty, loue, and wit ſhée beares the bell.</l>
+               </lg>
+               <lg>
+                  <l>And to recite the ſubſtance of her feature</l>
+                  <l>That all may ſay ſhée is a comely creature,</l>
+                  <l>From head to foot</l>
+                  <l>From head to foot</l>
+                  <l>From head to foot I will unfold aright</l>
+                  <l>The ſhape of her which is my hearts delight.</l>
+               </lg>
+               <lg>
+                  <l>Firſt is her haire like threds of golden wyre</l>
+                  <l>Vpon her head is ſet a ſeemly tyre,</l>
+                  <l>Which doth protect</l>
+                  <l>Which doth protect</l>
+                  <l>Which doth protect her crimſon chéeks from wind</l>
+                  <l>From Titans heate and Boreas blaſts unkinde.</l>
+               </lg>
+               <lg>
+                  <l>Her gliſtring eyes excell the diamond light,</l>
+                  <l>When I behold her countenance by night,</l>
+                  <l>I doe admire</l>
+                  <l>I doe admire</l>
+                  <l>I doe admire to ſée her beauteous brow</l>
+                  <l>In whom Diana chaſtneſſe doth allow.</l>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="63" facs="tcp:182955:1"/>
+               <!-- PDF PAGE 14 -->
+               <head>The ſecond part,</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>HEr rubie lips which doth incloſe the tongue</l>
+                  <l>From whence rare elegies are ſwéetly ſung,</l>
+                  <l>That may amaze</l>
+                  <l>That may amaze</l>
+                  <l>That may amaze each rurall ſwaine to heare</l>
+                  <l>Her Siren ſongs with voice ſo ſhrill and cleare.</l>
+               </lg>
+               <lg>
+                  <l>Her Iuorie necke with golden gems compleate,</l>
+                  <l>Her armes and ſhoulders framed fine and neate,</l>
+                  <l>Her lilly hand</l>
+                  <l>Her lilly hand</l>
+                  <l>Her lilly hand and fingers long and ſmall</l>
+                  <l>With ſlender waſt and perſon ſome-what tall.</l>
+               </lg>
+               <lg>
+                  <l>And farther to devulge ſome other parts</l>
+                  <l>Wherein dame nature ſhewes her chiefeſt arts,</l>
+                  <l>I purpoſe to</l>
+                  <l>I purpoſe to</l>
+                  <l>I purpoſe to ſtoope downe unto the toe,</l>
+                  <l>And ſo ſpeake of the reſt as up I goe.</l>
+               </lg>
+               <lg>
+                  <l>Her pretty foot and nimble dapper héele</l>
+                  <l>Her ſhaking legge haue ſhowne ſuch actiue skill,</l>
+                  <l>Both Coridon</l>
+                  <l>Both Coridon</l>
+                  <l>Both Coridon and Phillis bluſh't to ſee</l>
+                  <l>Her amourous cariage when ſhée bends the knée.</l>
+               </lg>
+               <lg>
+                  <l>Not only this which nature in her plac't,</l>
+                  <l>But Ladie vertue hath her further grac't</l>
+                  <l>In all reſpects</l>
+                  <l>In all reſpects</l>
+                  <l>In all reſpects each creature doth her finde</l>
+                  <l>To paſſe the Pellican ſhée is to kinde.</l>
+               </lg>
+               <lg>
+                  <l>So conſtant in her actions ſtill is ſhée</l>
+                  <l>Shée may compare with chaſt Penelope,</l>
+                  <l>Her minde once fix't</l>
+                  <l>Her minde once fix't</l>
+                  <l>Her minde once fix't it neuer will remoue,</l>
+                  <l>Shée'l rather die like to the Turtle doue.</l>
+               </lg>
+               <lg>
+                  <l>Her will to chaſtitie is ſo appli'd,</l>
+                  <l>Shée ſcornes ambition, luſt, and hatefull pride,</l>
+                  <l>Whereby ſhée gaines</l>
+                  <l>Whereby ſhée gaines</l>
+                  <l>Whereby ſhée gaines good wil of great and ſmal</l>
+                  <l>Stro<g ref="char:cmbAbbrStroke">̄</g>g weak, high low, rich poore, they loue her al skil</l>
+               </lg>
+               <lg>
+                  <l>But ſince my trembling hand and pen wants</l>
+                  <l>To write her fame compleate unto my will,</l>
+                  <l>I here conclude</l>
+                  <l>I here conclude</l>
+                  <l>I here conclude wiſhing each honeſt lad</l>
+                  <l>May haue ſo true a choice as I haue had.</l>
+               </lg>
+            </div>
+            <closer>
+               <signed>L. P:</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
